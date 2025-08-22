@@ -1,0 +1,7 @@
+echo "# BEEZILA" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/beezila22/BEEZILA.git
+git push -u origin main
